@@ -1,1 +1,1 @@
-# shell
+Sandbox for shell scripting
